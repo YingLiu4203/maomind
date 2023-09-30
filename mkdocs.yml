@@ -1,4 +1,5 @@
-site_name: 软件思维
+site_name: 老猫思想
+site_url: https://maomind.com
 
 theme:
   name: material
